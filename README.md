@@ -19,8 +19,8 @@ In a period of 2 to 5 years, I see myself as an individual capable of developing
 3. Utilities script for arch linux (Python - incomplete)  
 4. Portfolio CLI app (JavaScript)
   
-**MY DEVELOPER JOURNEY** 
-17/11/25
+**MY DEVELOPER JOURNEY**  
+17/11/25  
 Made the [portfolio-CLI-app](https://github.com/Mwi-mfu/portfolio-cli-mwinza.git) in JavaScript.  
  
 <-- I will update this part of the README every time I achieve something new in tech. -->  
